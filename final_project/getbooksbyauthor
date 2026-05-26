@@ -1,0 +1,13 @@
+curl -s http://localhost:5001/author/Homer
+[
+  {
+    "author": "Homer",
+    "title": "The Iliad",
+    "reviews": {}
+  },
+  {
+    "author": "Homer",
+    "title": "The Odyssey",
+    "reviews": {}
+  }
+]
